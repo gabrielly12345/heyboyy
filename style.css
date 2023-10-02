@@ -31,7 +31,7 @@
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-}
+} 
 
 .escola-div-conteudo{
     width: 35%;
@@ -41,3 +41,6 @@
     padding: 24;
 }
 
+.estudante-ícone{
+    width: 10px;
+}
